@@ -1,0 +1,14 @@
+C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\bin\Debug\net8.0\sistema_rotina_inteligente.exe
+C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\bin\Debug\net8.0\sistema_rotina_inteligente.deps.json
+C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\bin\Debug\net8.0\sistema_rotina_inteligente.runtimeconfig.json
+C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\bin\Debug\net8.0\sistema_rotina_inteligente.dll
+C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\bin\Debug\net8.0\sistema_rotina_inteligente.pdb
+C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.AssemblyInfoInputs.cache
+C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.AssemblyInfo.cs
+C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.csproj.CoreCompileInputs.cache
+C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.dll
+C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\obj\Debug\net8.0\refint\sistema_rotina_inteligente.dll
+C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.pdb
+C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.genruntimeconfig.cache
+C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\obj\Debug\net8.0\ref\sistema_rotina_inteligente.dll
