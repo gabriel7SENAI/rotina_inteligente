@@ -4,7 +4,6 @@ public class LimpezaTemp : RotinaBase
 {
     private Random random = new();
 
-    protected ControleRotinas logs;
     public int ArquivosRemovidos { get; private set; }
 
     public LimpezaTemp(string nome) : base(nome) { }
