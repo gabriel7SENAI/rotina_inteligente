@@ -12,3 +12,18 @@ C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_intelige
 C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.pdb
 C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.genruntimeconfig.cache
 C:\Users\476849624\Documents\Gabriel Cavalheiro\DESAFIOS\sistema_rotina_inteligente\obj\Debug\net8.0\ref\sistema_rotina_inteligente.dll
+C:\Programs\Gabriel\rotina_inteligente\rotina_inteligente\bin\Debug\net8.0\sistema_rotina_inteligente.exe
+C:\Programs\Gabriel\rotina_inteligente\rotina_inteligente\bin\Debug\net8.0\sistema_rotina_inteligente.deps.json
+C:\Programs\Gabriel\rotina_inteligente\rotina_inteligente\bin\Debug\net8.0\sistema_rotina_inteligente.runtimeconfig.json
+C:\Programs\Gabriel\rotina_inteligente\rotina_inteligente\bin\Debug\net8.0\sistema_rotina_inteligente.dll
+C:\Programs\Gabriel\rotina_inteligente\rotina_inteligente\bin\Debug\net8.0\sistema_rotina_inteligente.pdb
+C:\Programs\Gabriel\rotina_inteligente\rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\Gabriel\rotina_inteligente\rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.AssemblyInfoInputs.cache
+C:\Programs\Gabriel\rotina_inteligente\rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.AssemblyInfo.cs
+C:\Programs\Gabriel\rotina_inteligente\rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.csproj.CoreCompileInputs.cache
+C:\Programs\Gabriel\rotina_inteligente\rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.sourcelink.json
+C:\Programs\Gabriel\rotina_inteligente\rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.dll
+C:\Programs\Gabriel\rotina_inteligente\rotina_inteligente\obj\Debug\net8.0\refint\sistema_rotina_inteligente.dll
+C:\Programs\Gabriel\rotina_inteligente\rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.pdb
+C:\Programs\Gabriel\rotina_inteligente\rotina_inteligente\obj\Debug\net8.0\sistema_rotina_inteligente.genruntimeconfig.cache
+C:\Programs\Gabriel\rotina_inteligente\rotina_inteligente\obj\Debug\net8.0\ref\sistema_rotina_inteligente.dll

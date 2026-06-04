@@ -16,6 +16,8 @@ ControleRotinas controleRotinas = new();
 
 while (true)
 {
+    Console.Clear();
+
     Console.WriteLine("=== === === === === === === ===");
     Console.WriteLine("Sistema de Rotina Inteligente");
     Console.WriteLine("=== === === === === === === ===");
@@ -60,6 +62,16 @@ while (true)
             break;
 
         case 7:
+            Console.Clear();
+            Console.WriteLine("Logs:");
+            foreach (var log in RotinaBase.Logs)
+            {
+                Console.WriteLine($"{log.NomeRotina} - {log.DataExecucao}");
+                await Task.Delay(100);
+            }
+
+            Console.WriteLine("\n-- Pressione qualquer tecla para continuar --");
+            Console.ReadKey();
             break;
 
         case 0:
@@ -67,13 +79,11 @@ while (true)
             Thread.Sleep(2000);
             Console.WriteLine("Sistema encerrado.");
             Thread.Sleep(500);
-            Console.Clear();
             return;
 
         default:
             Console.WriteLine("Comando inválido");
             await Task.Delay(1000);
-            Console.Clear();
             break;
     }
 }

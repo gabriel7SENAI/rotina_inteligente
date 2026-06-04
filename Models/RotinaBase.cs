@@ -7,7 +7,7 @@ public abstract class RotinaBase : IRotina
     public string Nome { get; }
     public DateTime DataExecucao { get; set; }
 
-    public List<LogExecucao> Logs { get; } = new();
+    public static List<LogExecucao> Logs { get; } = new();
 
     protected RotinaBase(string nome)
     {
